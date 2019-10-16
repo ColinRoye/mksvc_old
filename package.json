@@ -1,0 +1,17 @@
+{
+  "name": "mksvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "mksvc": "./index.js"
+  },
+  "author": "Colin W. Roye",
+  "license": "ISC",
+  "dependencies": {
+    "nodegit": "^0.26.2"
+  }
+}
